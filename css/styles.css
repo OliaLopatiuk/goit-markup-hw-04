@@ -347,6 +347,10 @@ img {
   background-color: var(--active);
 }
 
+.social-link-icon {
+  fill: var(--light-accent-color);
+}
+
 /* Customers */
 
 .clients {
